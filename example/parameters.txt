@@ -1,0 +1,9 @@
+ncomp	1
+nSSFrom	0
+nSSTo	100
+nSSInc	20
+sSSFrom	10
+sSSTo	50
+sSSInc	20
+nRepetitions	5
+nSignals	5

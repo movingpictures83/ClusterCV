@@ -1,0 +1,2 @@
+Prefix plugins/ClusterCV/example/
+Plugin ClusterCV inputfile parameters.txt outputfile output.csv
